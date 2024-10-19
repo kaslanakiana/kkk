@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "image": "https://applet-base-api-t.itheima.net/img/banner/banner01.png",
+        "link": ""
+    },
+    {
+        "id": 2,
+        "image": "https://applet-base-api-t.itheima.net/img/banner/banner02.png",
+        "link": "/pages/list/list?cat=10"
+    }
+]
